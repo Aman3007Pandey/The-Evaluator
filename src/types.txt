@@ -1,0 +1,13 @@
+every vector.invoke loosk like : 
+
+page_content='- **January 2021 - Present**: **Senior Data Engineer**  
+  * Maxine was promoted to Senior Data Engineer after successfully leading a pivotal project that improved data retrieval timesby 30%. She now mentors junior engineers and is involved in strategic data initiatives, solidifying her position as a valued asset at Insurellm. She was recognized as Insurellm Innovator of the year in 2023, receiving the prestigious IIOTY 2023 award.' metadata={'source': 'C:\\Users\\amanp\\Desktop\\The Evaluator\\knowledge-base\\employees\\Maxine Thompson.md', 'chunk_id': 319}
+
+
+  every single Bm25_results is a class list
+
+  <class 'list'>
+
+  {'chunk_id': 319, 
+  'document': '- **January 2021 - Present**: **Senior Data Engineer**  \n  * Maxine was promoted to Senior Data Engineer after successfully leading a pivotal project that improved data retrieval times by 30%. She now mentors junior engineers and is involved in strategic data initiatives, solidifying her position as a valued asset at Insurellm. She was recognized as Insurellm Innovator of the year in 2023, receiving the prestigious IIOTY 2023 award.', 
+  'score': np.float64(11.834448378035264)}

@@ -1,0 +1,35 @@
+what was the full name of Maxine ?
+
+The context provided does not contain Maxine's full name; it only mentions her initials as "Maxine."
+
+
+
+
+
+original
+-----------------------------------------------------------
+# Careers at Insurellm
+
+## Why Join Insurellm?
+
+At Insurellm, we're not just building software—we're revolutionizing an entire industry. Since our founding in 2015, we've evolved from a high-growth startup to a lean, profitable company with 32 highly talented employees managing 32 active contracts across all eight of our product lines.
+
+After reaching 200 employees in 2020, we strategically restructured in 2022-2023 to focus on sustainable growth, operational excellence, and building a world-class remote-first culture. Today, we're a tight-knit team of exceptional professionals who deliver outsized impact through automation, AI, and strategic focus on high-value enterprise clients—from regional insurers to global reinsurance partners.
+
+### Our Culture
+-----------------------------------------------------------
+After LLM transformation
+
+        Context:
+        The provided chunk discusses why one should consider joining Insurellm, highlighting the company's transformation from a high-growth startup to a lean, profitable entity with 32 employees managing 32 active contracts across eight product lines. It also mentions the strategic restructuring in 2022-2023 aimed at focusing on sustainable growth, operational excellence, and building a world-class remote-first culture.
+
+        Content:
+        # Careers at Insurellm
+
+## Why Join Insurellm?
+
+At Insurellm, we're not just building software—we're revolutionizing an entire industry. Since our founding in 2015, we've evolved from a high-growth startup to a lean, profitable company with 32 highly talented employees managing 32 active contracts across all eight of our product lines.
+
+After reaching 200 employees in 2020, we strategically restructured in 2022-2023 to focus on sustainable growth, operational excellence, and building a world-class remote-first culture. Today, we're a tight-knit team of exceptional professionals who deliver outsized impact through automation, AI, and strategic focus on high-value enterprise clients—from regional insurers to global reinsurance partners.
+
+### Our Culture
